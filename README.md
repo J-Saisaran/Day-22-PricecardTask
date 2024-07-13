@@ -1,8 +1,5 @@
-# React + Vite
+The repo contains the JSX and CSS file related to the Day 22 task React Pricecard Task
+App.css -> CSS code related to the design
+App.jsx -> It contains the child components and it show the functionality of the task
+Carddesign.jsx -> It conatins design Content design part of the card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
